@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Kelvin and Hobbes"
 ---
 
-I'm glad you are here. I plan to talk about ...
+A little code, a little data analytics, a little D&D...let's roll for initiative!
