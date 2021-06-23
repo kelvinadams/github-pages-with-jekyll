@@ -11,3 +11,4 @@ twitter_username: kelvin_adams
 github_username:  kelvinadams # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
